@@ -1,0 +1,6 @@
+https:github-api.arkoselabs.com:443:.:^partitionKey=%28https%2Cgithub.com%29:3	0	19999	https:github-api.arkoselabs.com:443:github-api.arkoselabs.com:443::n:1728077812:h3:y:1727991350:n:^partitionKey=%28https%2Cgithub.com%29:|n:y:
+https:contile.services.mozilla.com:443:.::3	1	20000	https:contile.services.mozilla.com:443:contile.services.mozilla.com:443::n:1730660082:h3:y:1727991350:n::|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19999	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1730583981:h3:y:1727991350:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19999	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1730587003:h3:y:1727991350:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:www.google.com:443:.:^firstPartyDomain=google-canonical.search.suggestions.mozilla:3	0	19999	https:www.google.com:443:www.google.com:443::n:1730583817:h3:y:1727991350:n:^firstPartyDomain=google-canonical.search.suggestions.mozilla:|n:y:
+https:location.services.mozilla.com:443:.::3	0	19999	https:location.services.mozilla.com:443:location.services.mozilla.com:443::n:1730583352:h3:y:1727991350:n::|n:y:

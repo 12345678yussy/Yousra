@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox_firefox.desktop" score="72" last-seen="1728068202"/>
+    <application id="org.gnome.Terminal.desktop" score="10961" last-seen="1728068056"/>
+    <application id="snap-store_ubuntu-software.desktop" score="0" last-seen="0"/>
+    <application id="update-manager.desktop" score="127" last-seen="1727991008"/>
+  </context>
+</application-state>
